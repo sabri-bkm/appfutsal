@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Exo 2", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+img {
+    margin-left:43%;
+    height: 120px;
+    width: 140px;
+}
+.navbar {
+    background-color: #000;
+    overflow: hidden;
+}
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    margin-left:12%;
+}
+.navbar a:hover {
+    background-color: #C3AB70;
+    color: black;
+}
+.footer {
+    background-color: #C3AB70;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+/* Style training.php */
